@@ -1,0 +1,15 @@
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfo.cs
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.exe
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.deps.json
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.runtimeconfig.json
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.dll
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.pdb
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.dll
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\refint\StaticExercise.dll
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.pdb
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.genruntimeconfig.cache
+C:\Users\Juan Lopez Salamanca\OneDrive\Desktop\TrueCoders\repos(old)\Static-Exercise\StaticExercise\obj\Debug\net6.0\ref\StaticExercise.dll
